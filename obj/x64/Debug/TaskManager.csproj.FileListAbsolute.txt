@@ -1,0 +1,15 @@
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe.config
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\bin\x64\Debug\TaskManager.pdb
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\App.g.cs
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager_MarkupCompile.cache
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager_MarkupCompile.lref
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\MainWindow.baml
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.g.resources
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.exe
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.pdb
+C:\Users\Ewa\source\repos\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csprojResolveAssemblyReference.cache
